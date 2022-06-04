@@ -1,0 +1,28 @@
+canvas {
+  display: block;
+}
+
+.block-audio {
+  display: none;
+}
+body{padding: 0px;margin: 0px}
+h1{
+  position: fixed;
+  top: 20%;
+  left: 10%;
+  width: 80%;
+  text-align: center;
+  transform:translateY(-50%);
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 60px;
+  color:white;
+  padding: 0 20px;
+}
+h1 span{
+  position: fixed;
+  left: 10%;
+  width: 80%;
+  text-align: center;
+margin-top:30px;
+    font-size:40px;
+}
